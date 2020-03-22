@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "SDL/SDL.h"
 #include "SDL/SDL_image.h"  
- 
+ //hey
 void pause();
  
 int main()
